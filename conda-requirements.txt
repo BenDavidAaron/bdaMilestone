@@ -1,7 +1,7 @@
+flask==0.10.1
 pandas
 bokeh
 dill
-flask==0.10.1
 jinja2
 pip
 simplejson

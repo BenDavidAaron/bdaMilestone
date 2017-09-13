@@ -28,4 +28,4 @@ def index_lulu():
         p.line(stockDF.index.values.tolist(), stockDF['Close'].values.tolist())
         return file_html(p, CDN, "myplot")
 if __name__ == "__main__":
-    app_lulu.run(debug=True)
+    app_lulu.run(host='0.0.0.0', port=33507)

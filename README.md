@@ -1,3 +1,6 @@
+# final edit:
+the app is [here](https://bda-stock-month.herokuapp.com/mile)
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
